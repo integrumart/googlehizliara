@@ -1,0 +1,6 @@
+# Google Quick Search translation file
+msgid "Google Quick Search"
+msgstr "Google Hızlı Arama"
+
+msgid "Professional add-on that allows you to search on Google instantly with a single key (NVDA+0)."
+msgstr "Tek tuşla (NVDA+0) Google üzerinde hızlı arama yapmanızı sağlayan profesyonel eklenti."
